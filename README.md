@@ -2,7 +2,7 @@
 <h1 align="center">Embarcatec | Sistema Embarcado Simulador de Controle de Microondas com Display OLED e Matriz de LEDs</h1>
 
 <div align="center">  
-  <img width=40% src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIDO&color=02A6F4&style=for-the-badge"/>
+  <img width=40% src="http://img.shields.io/static/v1?label=STATUS&message=DESENVOLVIDO&color=02A6F4&style=for-the-badge"/>
 </div>
 
 ## Descrição do Projeto
