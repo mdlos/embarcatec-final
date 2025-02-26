@@ -78,6 +78,7 @@ O sistema pode ser expandido e adaptado para outras aplicações em eletrônica 
 
 ## 🎥 Demonstração: 
 - Para ver o funcionamento do projeto, acesse o vídeo:
+- https://drive.google.com/file/d/1glAV1f1YbACy0YHErHOjg8_wGkUqWpgk/view?usp=sharing
 
 =======
 # embarcatec3
